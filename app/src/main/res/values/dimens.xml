@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="jan">80</dimen>
+    <dimen name="dep">80dp</dimen>
+    <dimen name="jana">50dp</dimen>
+</resources>
